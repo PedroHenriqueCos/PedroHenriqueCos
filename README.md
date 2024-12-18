@@ -45,9 +45,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedroHenriqueCos/PedroHenriqueCos/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
