@@ -1,49 +1,32 @@
-<h1 align="left">Ola! Me chamo Pedro Henrique</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9bba62&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9bba62&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Henrique+Costa;estudo+analise+e+desenvolvimente+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg) 
 
-###
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCos&show_icons=true&count_private=true&hide_border=true&title_color=9bba62&icon_color=9bba62&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique Costa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCos&layout=compact&hide_border=true&title_color=9bba62&text_color=ffffff&bg_color=0d1117" />
+</div>
 
-<p align="left">Sobre mim:<br><br>- 🔭 Estou em busca de uma oportunidade de estágio!<br>- 🌱 Estudando Python e analise de dados <br>- 😄 Pronomes: ele/dele</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHenriqueCos&bg_color=000000&color=9bba62&line=799742&point=567421&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
+</div> 
+ 
+### Conhecimentos:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<h2 align="left">Status</h2>
 
-###
+  
+### Estudando no momento:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHenriqueCos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroHenriqueCos&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroHenriqueCos}/count.svg" /></p> 
+<br></div>
 
-###
 
-<h2 align="left">Thechs</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-###
-
-<h2 align="left">Social midia</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/pedro-henrique-costa-90a879221" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/phlkpeco/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9bba62&height=120&section=footer"/>
 
 
 
