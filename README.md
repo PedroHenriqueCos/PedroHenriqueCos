@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim:<br><br>- 🔭 Estou em busca de uma oportunidade de estágio!<br>- 🌱 Estudando Python <br>- 😄 Pronomes: ele/dele</p>
+<p align="left">Sobre mim:<br><br>- 🔭 Estou em busca de uma oportunidade de estágio!<br>- 🌱 Estudando Python e analise de dados <br>- 😄 Pronomes: ele/dele</p>
 
 ###
 
